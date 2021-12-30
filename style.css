@@ -1,0 +1,43 @@
+main {
+	font-family: sans-serif;
+	background-image:url('img/image2.jpg');
+	background-color: #077;
+	padding: 0;
+}
+figure {
+	color: #fff;
+	font-size: 12px;
+	border: 1px solid #fff;
+	margin: 0;
+	opacity: 0.6;
+}
+figcaption {
+	text-align: center;
+	margin: 5px;
+}
+figure:hover {
+	background-color: skyblue;
+	color: #004;
+	letter-spacing: 2px;
+	opacity: 1;
+}
+.text {
+    padding: 70px 0;
+    border: 10px green;
+	text-align: center
+	display: table;
+	margin: 0 auto;
+}
+.gallery {
+	text-align: center;
+	padding: 70px 0;
+	width:275px ;
+	height: 183px;
+	margin: 0 auto;
+}
+.link {
+    text-align: center;
+	width:309px ;
+	height: 163px;
+	margin: 0 auto;
+}
